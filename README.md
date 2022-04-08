@@ -1,20 +1,20 @@
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Dze8yYYzBPaBVPf7j9Mx9NkHZDDzKXzavCoUnkZuO0xqHG3__mjVJOearB9bEeY4sg&usqp=CAU)
 # Instituto Tecnológico de Tijuana
-## Nombre de Facultad:
-### Ingeniería Informática y Ingeniería en Tecnologías de la Información y Comunicación.
-## Proyecto / Tarea / Práctica:
-### Decision Tree Classifier
-## Materia:
-### Datos Masivos
-## Facilitador:
-### Jose Christian Romero Hernandez
-## Alumnos:
+### Nombre de Facultad:
+#### Ingeniería Informática y Ingeniería en Tecnologías de la Información y Comunicación.
+### Proyecto / Tarea / Práctica:
+#### Decision Tree Classifier
+### Materia:
+#### Datos Masivos
+### Facilitador:
+#### Jose Christian Romero Hernandez
+### Alumnos:
 - Erik Saul Rivera Reyes
 - Brayan Baltazar Moreno
 - Brayan Baltazar Moreno
 - Rafael Sanchez Baez
-## Fecha:
-### Tijuana Baja California a 07 de 04 2022 
+### Fecha:
+#### Tijuana Baja California a 07 de 04 2022 
 
 # Árboles de decisión
 Los árboles de decisión y sus conjuntos son métodos populares para las tareas de clasificación y regresión del aprendizaje
