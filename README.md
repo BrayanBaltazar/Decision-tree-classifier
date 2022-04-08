@@ -11,7 +11,7 @@
 ### Alumnos:
 - Erik Saul Rivera Reyes
 - Brayan Baltazar Moreno
-- Brayan Baltazar Moreno
+- Alonso Villegas Luis Antonio
 - Rafael Sanchez Baez
 ### Fecha:
 #### Tijuana Baja California a 07 de 04 2022 
