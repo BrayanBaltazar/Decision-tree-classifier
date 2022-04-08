@@ -43,7 +43,9 @@ Un árbol de decisión es una representación simple para clasificar ejemplos. E
 Un árbol puede ser "aprendido" mediante el fraccionamiento del conjunto inicial en subconjuntos basados en una prueba de valor de atributo. Este proceso se repite en cada subconjunto derivado de una manera recursiva llamada particionamiento recursivo. La recursividad termina cuando el subconjunto en un nodo tiene todo el mismo valor de la variable objetivo, o cuando la partición ya no agrega valor a las predicciones. Este proceso de inducción top-down de los árboles de decisión es un ejemplo de un algoritmo voraz, y es, con mucho, la estrategia más común para aprender árboles de decisión a partir de datos.
 En minería de datos, los árboles de decisión se pueden describir también como la combinación de técnicas matemáticas y computacionales para ayudar a la descripción, la categorización y la generalización de un conjunto dado de datos.
 Los datos provienen en registros de la forma:
+
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/9354e3bfc0c65eb88a0bf7b6b625dcdbc9e74248)
+
 La variable dependiente, Y, es la variable objetivo que estamos tratando de entender, clasificar o generalizar. El vector x se compone de las variables de entrada, x1, x2, x3 etc., que se utilizan para esa tarea.
 ### Video explicativo
 <https://www.youtube.com/watch?v=JcI5E2Ng6r4&ab_channel=IntuitiveMachineLearning>
