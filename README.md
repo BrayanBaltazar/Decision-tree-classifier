@@ -4,6 +4,17 @@
 ### Ingeniería Informática y Ingeniería en Tecnologías de la Información y Comunicación.
 ## Proyecto / Tarea / Práctica:
 ### Decision Tree Classifier
+## Materia:
+### Datos Masivos
+## Facilitador:
+### Jose Christian Romero Hernandez
+## Alumnos:
+- Erik Saul Rivera Reyes
+- Brayan Baltazar Moreno
+- Brayan Baltazar Moreno
+- Rafael Sanchez Baez
+## Fecha:
+### Tijuana Baja California a 07 de 04 2022 
 
 # Árboles de decisión
 Los árboles de decisión y sus conjuntos son métodos populares para las tareas de clasificación y regresión del aprendizaje
@@ -31,4 +42,5 @@ Un árbol de decisión es una representación simple para clasificar ejemplos. E
 
 ### Video explicativo
 <https://www.youtube.com/watch?v=JcI5E2Ng6r4&ab_channel=IntuitiveMachineLearning>
-<https://www.youtube.com/watch?v=Ih3U8Rju5ck >
+
+<https://www.youtube.com/watch?v=Ih3U8Rju5ck>
